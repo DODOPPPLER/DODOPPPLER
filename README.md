@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg](https://www.creativefabrica.com/wp-content/uploads/2025/07/02/KM-logo-template-line-design-abstract-il-Graphics-125298261-1-580x386.jpg)" height="200"/>
+  <img src="https://www.creativefabrica.com/wp-content/uploads/2025/07/02/KM-logo-template-line-design-abstract-il-Graphics-125298261-1-580x386.jpg" height="200"/>
 </p>
 <br>
 
@@ -13,10 +13,10 @@
   <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-brightgreen" />
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Kevin Moreno </h1>
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Kevin Moreno </h1>
 <h3 align="center">Backend Developer | Machine Learning Student </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in//kevin-felipe-moreno-ramirez/" target="blank"><img align="center" src="[https://image.flaticon.com/icons/png/128/174/174857.png](https://images.vexels.com/media/users/3/137382/isolated/preview/c59b2807ea44f0d70f41ca73c61d281d-logotipo-de-icono-de-linkedin.png)" alt="lin_ovindu" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in//kevin-felipe-moreno-ramirez/" target="blank"><img align="center" src="[https://image.flaticon.com/icons/png/128/174/174857.png](https://images.vexels.com/media/users/3/137382/isolated/preview/c59b2807ea44f0d70f41ca73c61d281d-logotipo-de-icono-de-linkedin.png)" alt="Linkein" height="30" width="40" /></a>  
 <a href = "mailto: morenokevinfelipe@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
@@ -24,15 +24,14 @@
 
 
 <p align="center">
-  <em>
-    Hello, I am Ovindu Wijethunge a <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>University Of Moratuwa</b>, Sri-Lanka (" Wisdom is all wealth ")</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-</p>
-<br><br>
+    <em>
+        Hola, Soy Kevin Moreno <b>Estudiante</b> de ingenieria de sistemas de la universidad Minuto De Dios <a href="https://www.uniminuto.edu/"> <b>Corporacion Universitaria Minuto De Dios</a>.<br>   
+        <b>Me apasiona el aprendizaje constante</b> y la búsqueda de nuevos retos que me permitan crecer como desarrollador. Tengo un fuerte interés por las matemáticas y la física, disciplinas que me inspiran a analizar problemas desde la lógica, la abstracción y la precisión.<br>
+        Disfruto aplicando estos conocimientos en el desarrollo <b>backend</b>, creando soluciones estructuradas y eficientes, y explorando el mundo del <b>machine learning</b>, donde la ciencia de datos y los modelos matemáticos cobran vida en aplicaciones reales.
+        <b> objetivo es unir estas áreas para construir proyectos que no solo sean técnicamente sólidos, sino también útiles y escalables.</b> 
+    </em>
+</p> 
+
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
