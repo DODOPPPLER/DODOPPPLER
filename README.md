@@ -17,7 +17,7 @@
 <h3 align="center">Backend Developer | Machine Learning Student </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in//kevin-felipe-moreno-ramirez/" target="blank"><img align="center" src="https://images.vexels.com/media/users/3/137382/isolated/preview/c59b2807ea44f0d70f41ca73c61d281d-logotipo-de-icono-de-linkedin.png" alt="LinkedIn" height="30" width="40" /></a>  
-<a href = "mailto: morenokevinfelipe@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+<a href = "mailto: morenokevinfelipe@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" height="30" width="40" /></a>
 </p>
 </p>
 
@@ -45,7 +45,7 @@
 <p align="left">
   
   <code><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/2560px-Git-logo.svg.png"></code>
-  <code> <img height="50" src="https://pngimg.com/d/github_PNG15.png"> </code>
+  <code> <img height="50" src="https://wallpapers.com/images/featured/github-logo-png-s8wb6yxlatsyp8s1.jpg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
