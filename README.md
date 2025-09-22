@@ -20,16 +20,15 @@
 </p>
 </p>
 
-
-
 <p align="center">
     <em>
-        Hola, Soy Kevin Moreno <b>Estudiante</b> de ingenieria de sistemas de la universidad Minuto De Dios <a href="https://www.uniminuto.edu/"> <b>Corporacion Universitaria Minuto De Dios</a>.<br>   
-        <b>Me apasiona el aprendizaje constante</b> y la búsqueda de nuevos retos que me permitan crecer como desarrollador. Tengo un fuerte interés por las matemáticas y la física, disciplinas que me inspiran a analizar problemas desde la lógica, la abstracción y la precisión.<br>
-        Disfruto aplicando estos conocimientos en el desarrollo <b>backend</b>, creando soluciones estructuradas y eficientes, y explorando el mundo del <b>machine learning</b>, donde la ciencia de datos y los modelos matemáticos cobran vida en aplicaciones reales.
+        Hola, Soy Kevin Moreno <b>Estudiante</b> de ingenieria de sistemas de la universidad Minuto De Dios <a href="https://www.uniminuto.edu/"> <b>Corporacion Universitaria Minuto De Dios</a>.</br>   
+        <b>Me apasiona el aprendizaje constante</b> y la búsqueda de nuevos retos que me permitan crecer como desarrollador. Tengo un fuerte interés por las matemáticas y la física, disciplinas que me inspiran a analizar problemas desde la lógica, la abstracción y la precisión.</br>
+        Disfruto aplicando estos conocimientos en el desarrollo <b>backend</b>, creando soluciones estructuradas y eficientes, y explorando el mundo del <b>machine learning</b>, donde la ciencia de datos y los modelos matemáticos cobran vida en aplicaciones reales. </br>
         <b> objetivo es unir estas áreas para construir proyectos que no solo sean técnicamente sólidos, sino también útiles y escalables.</b> 
     </em>
 </p> 
+
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
