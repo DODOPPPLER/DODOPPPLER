@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.creativefabrica.com/wp-content/uploads/2025/07/02/KM-logo-template-line-design-abstract-il-Graphics-125298261-1-580x386.jpg" height="200" style="border-radius:50%;"/>
+<img src="https://www.creativefabrica.com/wp-content/uploads/2025/07/02/KM-logo-template-line-design-abstract-il-Graphics-125298261-1-580x386.jpg" height="100"/>
 </p>
 <br>
 <p align="left"> 
