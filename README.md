@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://www.creativefabrica.com/wp-content/uploads/2025/07/02/KM-logo-template-line-design-abstract-il-Graphics-125298261-1-580x386.jpg" height="200"/>
+<img src="https://www.creativefabrica.com/wp-content/uploads/2025/07/02/KM-logo-template-line-design-abstract-il-Graphics-125298261-1-580x386.jpg" height="200" style="border-radius:50%;"/>
 </p>
 <br>
-
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=DODOPPPLER&color=brightgreen" alt="watching_count" />
  </p>
